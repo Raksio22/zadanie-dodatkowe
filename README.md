@@ -1,6 +1,8 @@
 
 # Zadanie Dodatkowe
 
+Zadanie w formacie .zip - [tutaj](https://github.com/Raksio22/zadanie-dodatkowe/archive/refs/heads/main.zip)
+
 Do poprawnego działania strony trzeba najpierw zaimportować plik **erpdatabase.sql**
 
 ⚠ Baza danych musi nazywać się **"erpdatabase"**
